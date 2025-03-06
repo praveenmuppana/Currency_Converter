@@ -38,7 +38,7 @@ select, input {
     text-align: center;
 }
 .convert-button {
-    background-color: #FF6347; /* Tomato */
+    background-color: #FF6347;
     border: none;
     color: white;
     padding: 15px 20px;
@@ -47,7 +47,7 @@ select, input {
     transition: background-color 0.3s ease;
 }
 .convert-button:hover {
-    background-color: #FF4500; /* OrangeRed */
+    background-color: #FF4500;
 }
 .footer {
     background-color: #800080;
